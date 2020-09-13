@@ -1,2 +1,7 @@
 # tech-career-acronym
-All acronyms you need for your tech career. 
+
+| Acronym      | Meaning |
+| ----------- | ----------- |
+| OA      | Online assessment       |
+| VO   | Video onsite (interview)        |
+| TC   | Total compensation        |
