@@ -20,3 +20,4 @@
 | FLAG   | Facebook, LinkedIn, Amazon (or Apple), Google        |
 | FAANG | Facebook, Amazon, Apple, Netflix, Google |
 | PIP | Performance Improvement Plan |
+| DAU, MAU | Daily active user, Monthly active user |
