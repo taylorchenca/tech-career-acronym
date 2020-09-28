@@ -9,6 +9,7 @@
 | NG   | New Grad        |
 | HM   | Hiring Manager        |
 | HC   | Head count        |
+| HC   | Hiring committee (of Google, etc)        |
 | JD   | Job Description        |
 | OPT   | Optional Practical Training (visa)        |
 | EB-1, EB-2, etc   | Different types of Employment Based visa (Green Card) |
