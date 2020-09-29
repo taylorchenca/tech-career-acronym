@@ -4,8 +4,11 @@
 | ----------- | ----------- |
 | OA      | Online assessment       |
 | VO   | Video onsite (interview)        |
+| BQ   | Behavioral questions (in interviews)        |
 | TC   | Total compensation        |
 | LC   | LeetCode        |
+| SDE   | Software Development Engineer (at Amazon etc)        |
+| SWE   | Software Engineer (at Google etc)        |
 | NG   | New Grad        |
 | HM   | Hiring Manager        |
 | HC   | Head count        |
