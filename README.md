@@ -9,6 +9,7 @@
 | LC   | LeetCode        |
 | SDE   | Software Development Engineer (at Amazon etc)        |
 | SWE   | Software Engineer (at Google etc)        |
+| MTS   | Member of Technical Staff (at VMware etc)        |
 | NG   | New Grad        |
 | HM   | Hiring Manager        |
 | HC   | Head count        |
